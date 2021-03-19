@@ -1,2 +1,5 @@
 # DEPENDENCY DIRECTORY
 node_modules
+
+#Envioromental Variables
+.env
